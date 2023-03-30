@@ -4,7 +4,7 @@ I'm a smart contract developer with over three years of experience in the blockc
 
 ### Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=XLazer4&count_private=true&show_icons=true&theme=tokyonight&hide=stars)<br>
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=XLazer4&count_private=true&show_icons=true&theme=tokyonight&hide=stars)<br>
 <!-- [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xlazer&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Let's Connect
