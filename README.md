@@ -7,7 +7,15 @@ I'm a smart contract developer with over three years of experience in the blockc
 ![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=XLazer4&count_private=true&show_icons=true&theme=tokyonight&hide=stars)<br>
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xlazer&theme=tokyonight&langs_count=5)
 
+### My Skills
+* Smart Contract ~ Solidity
+* EVM
+* HTML/CSS/JS
+* Web3 and Blockchain Research
+* Git
+
 ### Let's Connect
+Hit me up! Always open to listening to new ideas and share knowledge with each other.
 
 - [LinkedIn](https://www.linkedin.com/in/RahulKhanna4/)
 - [Twitter](https://twitter.com/rahulinweb3)
