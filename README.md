@@ -1,13 +1,6 @@
 # Hey! 🐢
 
-I'm a smart contract developer with over three years of experience in the blockchain industry. I'm passionate about DeFi and enjoy investing and coding. I have worked on multiple projects and gained experience in Solidity, currently exploring blockchain interoperability.
-
-### My Skills
-* Smart Contract ~ Solidity
-* EVM
-* HTML/CSS/JS
-* Web3 and Blockchain Research
-* Git
+I'm a blockchain developer with over three years of experience in the blockchain industry, including EVM and Solana. I'm passionate about DeFi and enjoy investing and coding. I have worked on multiple projects and currently building [ISC](https://isc.money/), flatcoin on solana with over $2M TVL.
 
 ### Stats
 
