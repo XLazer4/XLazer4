@@ -1,6 +1,6 @@
 # Hey! 🐢
 
-I'm a blockchain developer with over three years of experience in the blockchain industry, including EVM and Solana. I'm passionate about DeFi and enjoy investing and coding. I have worked on multiple projects and currently building [ISC](https://isc.money/), flatcoin on solana with over $2M TVL.
+Blockchain Developer with 4+ years building production DeFi infrastructure across EVM, Solana, and Sui. Currently at Impossible Finance, where I built and shipped the IF 2.0 launchpad (UUPS proxy, 4 audits, no criticals). $30k hackathon winner at Solana Colosseum with FxSwap. I write Solidity, Rust, and Move, and also working a Polymarket front-running bot averaging 5% per trade.
 
 ### Stats
 
