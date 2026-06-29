@@ -1,6 +1,6 @@
 # Hey! 🐢
 
-Blockchain Developer with 4+ years building production DeFi infrastructure across EVM, Solana, and Sui. Currently at Impossible Finance, where I built and shipped the IF 2.0 launchpad (UUPS proxy, 4 audits, no criticals). $30k hackathon winner at Solana Colosseum with FxSwap. I write Solidity, Rust, and Move, and also working a Polymarket front-running bot averaging 5% per trade.
+Blockchain Developer
 
 ### Stats
 
